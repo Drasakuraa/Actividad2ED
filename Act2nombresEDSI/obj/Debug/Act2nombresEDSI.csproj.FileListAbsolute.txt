@@ -1,0 +1,8 @@
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\bin\Debug\Act2nombresEDSI.exe.config
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\bin\Debug\Act2nombresEDSI.exe
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\bin\Debug\Act2nombresEDSI.pdb
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\obj\Debug\Act2nombresEDSI.Properties.Resources.resources
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\obj\Debug\Act2nombresEDSI.csproj.GenerateResource.cache
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\obj\Debug\Act2nombresEDSI.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\obj\Debug\Act2nombresEDSI.exe
+C:\Users\nalle\source\repos\Act2nombresEDSI\Act2nombresEDSI\obj\Debug\Act2nombresEDSI.pdb
